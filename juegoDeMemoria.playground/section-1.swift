@@ -22,7 +22,7 @@ for var i = 0; i<=100; i++
         print("# \(i) + ''impar!!!''\n")
     }
     
-    //rango de 30 a 40
+    //rango de 30 a 40 
     if i >= 30 && i <= 40
     {
         print("# \(i) + ''Viva Swift!!!''\n")
